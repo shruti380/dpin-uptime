@@ -54,5 +54,5 @@ pnpm dev
 
 ---
 
-Let me know if you want to add smart contract details, links, or screenshots!
+
 ```
